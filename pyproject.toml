@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "trading bot"
 version = "0.1.0"
-description = "Automated trading bot with signals from machine learning"
+description = "Automated trading bot with signals from machine learning [WIP]"
 authors = ["Lian Zhen Yang"]
 readme = "README.md"
 
